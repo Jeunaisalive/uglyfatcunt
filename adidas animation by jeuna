@@ -1,1 +1,9 @@
+game.StarterGui:SetCore("SendNotification", {
+Title = "🔔";
+Text = "made by @jeunaisalive on discord!";
+})
+game.StarterGui:SetCore("SendNotification", {
+Title = "🔔";
+Text = "exclusively for .gg/plasticsacademy";
+})
 print("ugly dont sskid or i will killl your ugly faggot ass")
