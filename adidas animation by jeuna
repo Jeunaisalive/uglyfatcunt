@@ -7,3 +7,7 @@ Title = "🔔";
 Text = "exclusively for .gg/plasticsacademy";
 })
 print("ugly dont sskid or i will killl your ugly faggot ass")
+game.StarterGui:SetCore("SendNotification", {
+Title = "🔔";
+Text = "I FAILED MAKING THEM.....";
+})
